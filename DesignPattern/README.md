@@ -1,6 +1,7 @@
 # DesignPattern
-JAVA»ù´¡½²Òå
-com.usina  °üº¬23ÖÖJAVAÉè¼ÆÄ£Ê½
+JAVAåŸºç¡€è®²ä¹‰
+com.usina  åŒ…å«23ç§JAVAè®¾è®¡æ¨¡å¼
 			Abstract_factory
-Design_principles °üº¬6ÖÖÉè¼ÆÔ­Ôò
+			adapter é€‚é…å™¨
+Design_principles åŒ…å«6ç§è®¾è®¡åŸåˆ™
 
